@@ -1,7 +1,7 @@
 # Getting and Cleaning Data - Course Project
 
 This is the course project for the Getting and Cleaning Data Coursera course.
-The R script, [run_analysis.R], does the following:
+The R script, [run_analysis.R](run_analysis.R), does the following:
 1. Download the dataset if it does not already exist in the working directory and unzip it.
 2. Load the activity and feature information.
 3. Loads both the training and test datasets, keeping only those columns which reflect a `mean()`: Mean value or `std()`: Standard deviation.
