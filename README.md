@@ -12,4 +12,4 @@ The R script, `run_analysis.R`, does the following:
 
 The end result is shown in the file `tidy_data.txt`.
 
- [CodeBook.md](blob/master/CodeBook.md) has the details about the features
+ [CodeBook.md](CodeBook.md) has the details about the features
